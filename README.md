@@ -47,8 +47,8 @@ It is a real player, not a mockup: seek, volume, speed, shuffle, repeat, likes, 
 
 **Serve it locally:**
 ```bash
-git clone https://github.com/<you>/openitify.git
-cd openitify
+git clone https://github.com/marqusantonio70-crypto/opensourcemusic.git
+cd opensourcemusic
 python3 -m http.server 8080
 # open http://localhost:8080
 ```
